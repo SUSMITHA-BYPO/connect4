@@ -1,0 +1,119 @@
+\documentclass[a4paper,17pt]{beamer}
+\usetheme{Warsaw}
+\usecolortheme{beetle}
+\usepackage[utf8]{inputenc}
+\author{Team 9}
+\usepackage{graphicx}
+\usepackage{lipsum}
+
+
+
+\begin{document}
+\begin{frame}{Connect Four Dots}
+\maketitle
+\begin{figure}[htp]
+    
+    \includegraphics[width=4.5cm,height =55]{images.jpeg}
+    \label{fig:galaxy}
+\end{figure}
+\end{frame}
+\begin{frame}{Team Members}
+\begin{itemize}
+  \item Harshitha Bura-20B01A0517-CSE
+  \item Susmitha Bypo-20B01A0518-CSE
+  \item Sumedha Akella-20B01A0404-ECE
+  \item Diamond Mary Apple Addanki-20B01A0403-ECE
+  \item Tejaswini Battula-20B01A0310-MECH
+\end{itemize}
+    
+\end{frame}
+\begin{frame}{Description}
+    \begin{text}
+    Connect Four is a two player game, where each player align four game coins either horizontally, vertically or diagonally in  game board . 
+    \end{text}
+\end{frame}
+\begin{frame}
+\begin{figure}[htp]
+    
+    \includegraphics[width=11.5cm,height =7cm]{Blank 4 Grids Collage.jpg}
+    \label{fig:galaxy}
+\end{figure}
+\end{frame}
+\begin{frame}{Project Flow}
+\begin{figure}[htp]
+    
+    \includegraphics[width=11.5cm,height =7cm]{2022-03-23 (7).png}
+    \label{fig:galaxy}
+\end{figure}
+\end{frame}
+\begin{frame}{Challenges}
+    \begin{itemize}
+    \item Faced a little challenge in Alloting and sharing work between team members.
+        \item Faced difficult in installing Pygame module .
+        \item Faced difficulty in creating presentation using LaTex
+    \end{itemize}
+\end{frame}
+\begin{frame}{Learnings}
+    \begin{itemize}
+        \item numpy
+        \item Pygame
+        \item sys
+        \item math
+    \end{itemize}
+    
+\end{frame}
+\begin{frame}{Tech Stack}
+    \begin{text}{Technical Stack}
+\begin{enumerate}
+    \item Language
+    \begin{itemize}
+        \item python
+    \end{itemize}
+    \item Tools
+    \begin{itemize}
+        \item Pycharm
+        \item GUI
+    \end{itemize}
+\end{enumerate}
+    
+\end{text}
+    
+\end{frame}
+
+\begin{frame}{Demo Screenshots}
+    
+    \begin{figure}[htp]
+    
+    \includegraphics[width=11.5cm,height =7cm]{2022-03-24 (20).png}
+    \label{fig:galaxy}
+\end{figure}
+\end{frame}
+\begin{frame}
+\begin{figure}[htp]
+    
+    \includegraphics[width=11.5cm,height =7cm]{Blank 4 Grids Collage.jpg}
+    \label{fig:galaxy}
+\end{figure}
+
+\end{frame}
+
+
+ \begin{frame}{Code Status}
+    \begin{itemize}
+        \item Lines of code : 120
+        \item No.of functions : 7
+    \end{itemize}
+    \end{frame}
+    
+\begin{frame}{Repo}
+    
+   \url{https://gitlab.com/20b01a0517/connect-four.git} 
+    
+\end{frame}
+
+\begin{frame}
+	\begin{center}
+	     THANK YOU
+	\end{center}
+    \end{frame}
+\end{document}
